@@ -70,6 +70,14 @@
 
 <div align="center">
 
+## `🏆 CERTIFICATIONS`
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
+</p>
+
+<div align="center">
+
 <table>
   <!-- PRIMERA FILA (4 CERTIFICADOS) -->
   <tr>
@@ -119,8 +127,7 @@
     </td>
   </tr>
   
-<!-- SEGUNDA FILA (QUINTO CERTIFICADO) -->
-  
+  <!-- SEGUNDA FILA (4 CERTIFICADOS) -->
   <tr>
     <td align="center" width="25%">
       <a href="https://www.credly.com/badges/6c005c67-b860-4c22-81b3-a9de13f095a3/public_url">
@@ -166,7 +173,6 @@
       <br />
       <a href="https://www.credly.com/badges/ffc4a264-8df8-4b19-84e4-ad95eee1c5b1/public_url">Ver credencial ↗</a>
     </td>
-    <td align="center" width="25%"></td>
   </tr>
 </table>
 
