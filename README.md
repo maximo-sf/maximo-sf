@@ -160,7 +160,7 @@
         <img src="./assets/credly/cybersecurity-fundamentals.png" width="130" alt="Cybersecurity Fundamentals" />
       </a>
       <br />
-      <strong>Cybersecurity Fundamentals/strong>
+      <strong>Cybersecurity Fundamentals</strong>
       <br />
       <sub>Credencial verificada ✅</sub>
       <br />
