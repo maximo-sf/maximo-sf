@@ -180,7 +180,7 @@
 
 <div align="left">
   
-## 🌊​ Featured Projects
+## `🌊​ Featured Projects`
 
 ### 🤖 <a href="https://github.com/maximo-sf/My-Projects">My-Projects</a>
 Personal projects, automation tools and practical applications.
