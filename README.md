@@ -156,6 +156,18 @@
       <a href="https://www.credly.com/badges/657b1a5b-07af-4c25-95aa-1e51be7ad1b5/public_url">Ver credencial ↗</a>
     </td>
     <td align="center" width="25%"></td>
+    <td align="center" width="25%">
+      <a href="https://www.credly.com/badges/ffc4a264-8df8-4b19-84e4-ad95eee1c5b1/public_url">
+        <img src="./assets/credly/cybersecurity-fundamentals.png" width="130" alt="Cybersecurity Fundamentals" />
+      </a>
+      <br />
+      <strong>Cybersecurity Fundamentals/strong>
+      <br />
+      <sub>Credencial verificada ✅</sub>
+      <br />
+      <a href="https://www.credly.com/badges/ffc4a264-8df8-4b19-84e4-ad95eee1c5b1/public_url">Ver credencial ↗</a>
+    </td>
+    <td align="center" width="25%"></td>
   </tr>
 </table>
 
