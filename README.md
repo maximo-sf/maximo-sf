@@ -178,35 +178,46 @@
 
 </div>
 
-## `Featured Projects`
+## 🌊​ Featured Projects
 
-### 🤖 [My-Projects](https://github.com/maximo-sf/My-Projects)
+### 🤖 <a href="https://github.com/maximo-sf/My-Projects">My-Projects</a>
 Personal projects, automation tools and practical applications.
 
-- Python projects and practical development.
-- Minecraft Discord bot for server status and administration.
+<p>🔹 Python projects and practical development.</p>
+<p>🔹 Minecraft Discord bot for server status and administration.</p>
 
-**Technologies:** Python · Discord.py · Git
+<p><strong>Technologies:</strong> Python · Discord.py · Git</p>
 
-### 🌐 [Networking](https://github.com/maximo-sf/Networking)
+<br />
+
+### 🌐 <a href="https://github.com/maximo-sf/Networking">Networking</a>
 Networking labs and system infrastructure exercises.
 
-- DHCP configuration and network services.
-- SRI practice and network administration.
+<p>🔹 DHCP configuration and network services.</p>
+<p>🔹 SRI practice and network administration.</p>
+<p>🔹 Dns configurator step by step.</p>
 
-**Topics:** Networking · DHCP · Linux · TCP/IP
+<p><strong>Topics:</strong> Networking · DHCP · Linux · TCP/IP</p>
 
-### 💻 [Programming](https://github.com/maximo-sf/Programming)
+<br />
+
+### 💻 <a href="https://github.com/maximo-sf/Programming">Programming</a>
 Programming exercises and projects developed while learning.
 
-- Programming fundamentals and practical exercises.
-- Small applications and development practice.
+<p>🔹 Programming fundamentals and practical exercises.</p>
+<p>🔹 Small applications and development practice.</p>
 
-**Technologies:** Programming · Scripting
+<p><strong>Technologies:</strong> Programming · Scripting</p>
 
-[View all repositories →](https://github.com/maximo-sf?tab=repositories)
+<br />
+
+<a href="https://github.com/maximo-sf?tab=repositories">View all repositories →</a>
+
+<br /><br />
 
 > More projects and documentation coming soon.
+
+</div>
 
 ## `⭐ Github Stats`
 
