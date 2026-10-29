@@ -70,14 +70,6 @@
 
 <div align="center">
 
-## `🏆 CERTIFICATIONS`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
-</p>
-
-<div align="center">
-
 <table>
   <!-- PRIMERA FILA (4 CERTIFICADOS) -->
   <tr>
