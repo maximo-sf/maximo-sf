@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Docker_Networking-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Networking"/>
 </p>
 
-## `🏆 CERTIFICATIONS`
+## `🏆 Certifications`
 
 <div align="center">
 
