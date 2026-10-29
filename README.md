@@ -164,10 +164,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/VERIFIED_CREDENTIALS-CREDLY-00FF41?style=for-the-badge&logo=credly&logoColor=white" />
-</p>
-
 </div>
 
 <div align="left">
