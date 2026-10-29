@@ -178,7 +178,8 @@
 
 </div>
 
-<div align="center">
+<div align="left">
+  
 ## 🌊​ Featured Projects
 
 ### 🤖 <a href="https://github.com/maximo-sf/My-Projects">My-Projects</a>
