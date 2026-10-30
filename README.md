@@ -214,8 +214,8 @@ Programming exercises and projects developed while learning.
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=maximo-sf&show_icons=true&hide_border=true&theme=github_dark&title_color=54C1F7&icon_color=54C1F7&text_color=FFFFFF"
-    alt="GitHub statistics"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=maximo-sf&theme=github_dark&hide_border=true&background=0D1117&fire=FFFFFF&ring=15BA11&currStreakNum=FFFFFF"
+    alt="GitHub Streak"
   />
   <img
     height="165"
@@ -225,7 +225,7 @@ Programming exercises and projects developed while learning.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/maximo-sf/maximo-sf.json&style=for-the-badge&color=54C1F7&label=PROFILE%20VIEWS&logo=eye&logoColor=white" alt="Profile Views" />
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/maximo-sf/maximo-sf.json&style=for-the-badge&color=429C00&label=PROFILE%20VIEWS&logo=eye&logoColor=white" alt="Profile Views" />
 </p>
 
 ## `📬 Contact Me`
