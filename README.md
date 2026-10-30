@@ -217,9 +217,9 @@ Programming exercises and projects developed while learning.
     src="https://github-readme-streak-stats.herokuapp.com/?user=maximo-sf&theme=github_dark&hide_border=true&background=0D1117&fire=FFFFFF&ring=15BA11&currStreakNum=FFFFFF"
     alt="GitHub Streak"
   />
-  <img
+<img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-sf&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=54C1F7&text_color=FFFFFF"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=maximo-sf&layout=compact&langs_count=6&hide_border=true&theme=github_dark&title_color=429C00&text_color=FFFFFF"
     alt="Most used programming languages"
   />
 </p>
