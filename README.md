@@ -1,7 +1,7 @@
-# Máximo Sánchez Fernández
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CF46,100:0A8C08&height=180&section=header&text=Máximo%20Sánchez%20Fernández&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=ASIR%20%7C%20Soporte%20IT%20%7C%20Redes%20y%20Sistemas&descAlignY=60&descSize=16" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=51CEFC&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2AC728&center=true&vCenter=true&width=600&lines=ASIR+Student;Linux+%7C+Networking+%7C+Cybersecurity;Learning+something+new+every+day" alt="Typing animation"/>
 </p>
 
 ## `🤔​ About me`
@@ -241,3 +241,5 @@ Programming exercises and projects developed while learning.
     <img src="https://img.shields.io/badge/Gmail-maximo.sf.2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:48CF46,100:0A8C08&height=110&section=footer" />
